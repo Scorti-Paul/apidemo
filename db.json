@@ -1,6 +1,12 @@
 {
-  {
+  "user": [
+    {
     "username": "paulscorti",
     "email": "scortip@gmail.com"
+  },
+    {
+    "username": "naz",
+    "email": "naz@yahoo.com"
   }
+  ]
 }
